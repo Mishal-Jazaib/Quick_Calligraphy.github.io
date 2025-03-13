@@ -1,0 +1,17 @@
+/* Section Divider */
+.section-divider {
+	height: 50px;
+	background: linear-gradient(to right, transparent, #ffd700, transparent);
+}
+.feed{
+	font-family: 'Great Vibes', cursive;
+	font-size: 90px !important;
+   
+}
+.family{
+	font-family: 'Great Vibes', cursive;
+	font-size: 60px !important;
+}
+.ff{
+	font-family: 'Great Vibes', cursive;
+}
